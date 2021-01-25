@@ -143,7 +143,7 @@
                                     }
                                 });
                         }else{
-                            alert("Campos Vzios não são permitidos!");
+                            alert("Campos Vazios não são permitidos!");
                         }
 
 
