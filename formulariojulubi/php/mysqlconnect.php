@@ -2,7 +2,7 @@
     $sevidor = "localhost";
     $dbusuario = "root";
     $dbsenha = "";
-    $dbname = "julubi";
+    $dbname = "yourdbname";
 
     // Create connection
         $conn = mysqli_connect($sevidor, $dbusuario, $dbsenha, $dbname);
